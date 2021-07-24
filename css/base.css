@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+header{
+    background-color: rgb(145, 222, 248);
+}
+
+ul{
+    list-style: none;
+}
+
+div{
+    text-align: center;
+    margin: 0 auto;
+    display: inline-block;
+}
